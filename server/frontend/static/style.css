@@ -1,5 +1,5 @@
 img{
-  width: 60%;
+  width: 20%;
   align-self: center;
 }
 
@@ -117,7 +117,7 @@ img{
 
 .img_icon {
   align-self: center;
-    width:40px;
+    width:10;
     background-color:#0C9;
     color:#FFF;
     border-radius:50px;
